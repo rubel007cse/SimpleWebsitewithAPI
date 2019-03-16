@@ -81,7 +81,7 @@ mysqli_close($connection);
 
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-    <script src="ext/ootstrap.min.js"></script>
+    <script src="ext/bootstrap.min.js"></script>
 
 </body>
 </html>
